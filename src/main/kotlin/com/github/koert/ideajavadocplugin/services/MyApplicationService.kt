@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.koert.ideajavadocplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.koert.ideajavadocplugin.MyBundle
 
 class MyApplicationService {
 
